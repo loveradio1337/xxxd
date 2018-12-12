@@ -1,1 +1,1 @@
-worker: python coco17.py
+worker: python dx.py
